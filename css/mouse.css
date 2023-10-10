@@ -1,0 +1,14 @@
+body {
+    cursor: url(https://bu.dusays.com/2023/10/10/6525112add2f0.png), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+    display: block
+}
+
+a,
+button,
+img {
+    cursor: url(https://bu.dusays.com/2023/10/10/6525112ae4512.png), auto
+}
